@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Alexandra! <br/></h1>
+<h2>I'm a Software Engineering student who is passionte about using my creativity and coding skills to create programs that help people and solve problems.</h2>
 
-<!--
-**ascurtu1/ascurtu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stay tuned!
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AlexandraScurtu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alexandraalexandru/
+
+
+
+
