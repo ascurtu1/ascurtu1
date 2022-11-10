@@ -2,7 +2,7 @@
 <h2>I'm a Software Engineering student who is passionte about using my creativity and coding skills to create programs that help people and solve problems.</h2>
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👩‍💻 Software Development Projects:</h2>
 
 Stay tuned!
 
