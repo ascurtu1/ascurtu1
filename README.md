@@ -4,8 +4,8 @@
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>test2)</b>
+  - [test](https://github.com/ascurtu1/test.git)
 
 <h2> 🤳 Connect with me:</h2>
 
