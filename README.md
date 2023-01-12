@@ -4,8 +4,7 @@
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
-- <b>test2)</b>
-  - [test](https://github.com/ascurtu1/test.git)
+Stay tuned!
 
 <h2> 🤳 Connect with me:</h2>
 
