@@ -4,7 +4,8 @@
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
-Stay tuned!
+- <b>SQL</b>
+- [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design))
 
 <h2> 🤳 Connect with me:</h2>
 
