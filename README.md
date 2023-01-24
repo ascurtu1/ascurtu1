@@ -6,6 +6,7 @@
 
 - <b>SQL</b>
   - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
+  - [Automated Data Integration](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
 
 <h2> 🤳 Connect with me:</h2>
 
