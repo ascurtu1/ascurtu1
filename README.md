@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alexandra! <br/></h1>
-<h2>I'm a Software Engineering student who is passionte about using my creativity and coding skills to create programs that help people and solve problems.</h2>
+<h2>I'm a Software Engineering student who is passionate about using my creativity and coding skills to create programs that help people and solve problems.</h2>
 
 
 <h2>👩‍💻 Software Development Projects:</h2>
