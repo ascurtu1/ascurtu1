@@ -8,6 +8,10 @@
   - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
 
+- <b>C++</b>
+  - [Creating a Class Roster using C++] (https://github.com/ascurtu1/C-Class-Roster/tree/master)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AlexandraScurtu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
