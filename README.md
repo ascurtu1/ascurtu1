@@ -9,7 +9,8 @@
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
 
 - <b>C++</b>
-  - [Creating a Class Roster using C++] (https://github.com/ascurtu1/C-Class-Roster/tree/master)
+  - [Creating a Class Roster using C++](https://github.com/ascurtu1/C-Class-Roster/tree/master)
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
