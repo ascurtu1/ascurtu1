@@ -10,8 +10,11 @@
 
 - <b>C++</b>
   - [Creating a Class Roster using C++](https://github.com/ascurtu1/C-Class-Roster/tree/master)
- 
 
+- <b>Java</b>
+  - [Creating a Inventory Management Application using Java](https://github.com/ascurtu1/Java_Inventory-System-Application/tree/master)
+
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
