@@ -12,7 +12,7 @@
   - [Creating a Class Roster using C++](https://github.com/ascurtu1/C-Class-Roster/tree/master)
 
 - <b>Java</b>
-  - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/Java_Inventory-System-Application/tree/master)
+  - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
 
  
 
