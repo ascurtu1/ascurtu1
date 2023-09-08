@@ -10,7 +10,7 @@
  
 - <b>Java</b>
   - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
-  - [Creating a Class Scheduling Application in Android using Java](https://github.com/ascurtu1/StudentSchedulerAndroid)
+  - [Creating a Class Scheduling Application in Android using Java and SQLite](https://github.com/ascurtu1/StudentSchedulerAndroid)
   
 
 - <b>C++</b>
