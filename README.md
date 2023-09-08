@@ -11,6 +11,7 @@
 - <b>Java</b>
   - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
   - [Creating a Class Scheduling Application in Android using Java](https://github.com/ascurtu1/StudentSchedulerAndroid)
+  
 
 - <b>C++</b>
   - [Creating a Class Roster using C++](https://github.com/ascurtu1/C-Class-Roster/tree/master)
