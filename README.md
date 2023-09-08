@@ -7,12 +7,15 @@
 - <b>SQL</b>
   - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
+ 
+- <b>Java</b>
+  - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
+  - [Creating a Class Scheduling Application in Android using Java] (https://github.com/ascurtu1/StudentSchedulerAndroid)
 
 - <b>C++</b>
   - [Creating a Class Roster using C++](https://github.com/ascurtu1/C-Class-Roster/tree/master)
 
-- <b>Java</b>
-  - [Creating an Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
+
 
  
 
