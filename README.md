@@ -5,8 +5,9 @@
 <h2>👩‍💻 Software Development Projects:</h2>
 
 - <b>SQL</b>
-  - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
+  - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
+  
  
 - <b>Java</b>
   - [Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
