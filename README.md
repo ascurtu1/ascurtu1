@@ -10,6 +10,7 @@
   
  
 - <b>Java</b>
+  - [Scheduling Application using Java & MySQL](https://github.com/ascurtu1/Java_Scheduling_Application)
   - [Inventory Management Application using Java](https://github.com/ascurtu1/JavaInventoryApplication)
   - [Class Scheduling Application in Android using Java and SQLite](https://github.com/ascurtu1/StudentSchedulerAndroid)
   
