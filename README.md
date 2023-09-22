@@ -6,7 +6,7 @@
 
 - <b>SQL</b>
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
-  - [Creating a Database and queries using mySQL](https://github.com/ascurtu1/SQL_Database-Design)
+  - [Creating a Database and queries using MySQL](https://github.com/ascurtu1/SQL_Database-Design)
   
  
 - <b>Java</b>
