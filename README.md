@@ -7,6 +7,7 @@
 - <b>SQL</b>
   - [Automated Data Integration using PostgreSQL ](https://github.com/ascurtu1/SQL_Automated-Data-Integration)
   - [Creating a Database and queries using MySQL](https://github.com/ascurtu1/SQL_Database-Design)
+  - [Company Database queries using MySQL](https://github.com/ascurtu1/SQL_Fortune500Analysis/blob/main/SQL_Queries)
   
  
 - <b>Java</b>
